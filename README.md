@@ -8,7 +8,9 @@
 
 | Nome | RA |
 |------|----|
-| _(preencha com os integrantes do grupo)_ | _(RA)_ |
+| _Guilherme Dalarona dos Santos_ | _1991839_ |
+| _Vinicius da Silva Gomes_ | _2010424_ |
+| _João Pedro Pereira Guerra_ | _2006484_ |
 
 ---
 
