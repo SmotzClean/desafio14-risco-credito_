@@ -1,6 +1,6 @@
 # 💳 Previsão de Risco de Crédito — Desafio 14
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://LINK-DO-APP-AQUI.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://desafio14-risco-credito-qbxl5x6mutheblluecvgwj.streamlit.app/)
 
 ---
 
@@ -172,7 +172,7 @@ O app abrirá automaticamente em `http://localhost:8501`.
 
 ## 🌐 Link do App Publicado
 
-🔗 **[Acesse o app aqui](https://LINK-DO-APP-AQUI.streamlit.app)**
+🔗 **[Acesse o app aqui](https://desafio14-risco-credito-qbxl5x6mutheblluecvgwj.streamlit.app/)**
 
 > *Deploy realizado no Streamlit Community Cloud.*
 
